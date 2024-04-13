@@ -1,7 +1,7 @@
 {
   "name": "sad6-cli-todo_list",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Todo_list project using typescript & inquirer, chalk ",
   "main": "todos.js",
   "type": "module",
   "bin": "todos.js",
